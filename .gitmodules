@@ -2,3 +2,6 @@
 [submodule "micronucleus"]
 	path = micronucleus
 	url = https://github.com/micronucleus/micronucleus
+[submodule "DigisparkArduinoIntegration"]
+	path = DigisparkArduinoIntegration
+	url = git@github.com:Qubotica/DigisparkArduinoIntegration.git
