@@ -6,13 +6,14 @@ Una versión diminuta de arduino.
 Version 0.1
 -----------
 
-![](PIC_0998.JPG)
-![](PIC_1000.JPG)
+![](img/PIC_0998.JPG)
+![](img/PIC_1000.JPG)
 
 Versión 0.2
 -----------
 
-![](PIC_1003.JPG)![](PIC_1006.JPG)
+![](img/PIC_1003.JPG)
+![](img/PIC_1006.JPG)
 
 * La versión es más compacta y tiene el USB unido a la plaqueta
 
@@ -20,8 +21,6 @@ Firmware
 --------
 
 El que usamos actualmente es la **versión 1.0.6** `micronucleus/firmware/releases/micronucleus-1.06.hex`
-
-
 
 Circuito para conectar por USB
 ------------------------------
@@ -69,6 +68,6 @@ Este es uno de los ejemplos que vienen en la versión de arduino de Digispak
 Pendientes
 ----------
 
-* Explicar como [cargar el frimware](https://github.com/b4zz4/RaspberryPI#raspisp)
+* Explicar como [cargar el firmware](https://github.com/b4zz4/RaspberryPI#raspisp)
 * Subir los circuitos
 * Crear logo
